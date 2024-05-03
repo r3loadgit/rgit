@@ -8,16 +8,6 @@ colorama.init(autoreset=True)
 import subprocess
 
 
-logo = f"""
-[!!]The author is not responsible for your actions
-{colorama.Fore.LIGHTGREEN_EX}WW      WW iii  fff iii {colorama.Fore.RED}DDDDD                          tt    hh     
-{colorama.Fore.LIGHTGREEN_EX}WW      WW     ff       {colorama.Fore.RED}DD  DD    eee    aa aa uu   uu tt    hh     
-{colorama.Fore.LIGHTGREEN_EX}WW   W  WW iii ffff iii {colorama.Fore.RED}DD   DD ee   e  aa aaa uu   uu tttt  hhhhhh 
-{colorama.Fore.LIGHTGREEN_EX} WW WWW WW iii ff   iii {colorama.Fore.RED}DD   DD eeeee  aa  aaa uu   uu tt    hh   hh
-{colorama.Fore.LIGHTGREEN_EX}  WW   WW  iii ff   iii {colorama.Fore.RED}DDDDDD   eeeee  aaa aa  uuuu u  tttt hh   hh
-	{colorama.Fore.LIGHTBLUE_EX}MADE BY XSARZ     [https://linktr.ee/xsarz]
-"""
-
 
 
 class WIFIDeauth:
